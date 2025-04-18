@@ -20,6 +20,6 @@ The original Unity AngryBots demo project upgraded to Unity 6. This project was 
 * Rendering with Forward BiRP, which is supposedly being deprecated for "Unified Rendering" in a later Unity 6 or upcoming "Unity 7" editor by Unity.
 * Previous versions of Unity may not be supported due to API changes made for Unity 6 (e.g. `Rigidbody.velocity` => `Rigidbody.linearVelocity`).
 
-Special thanks to Unity's [unityscript2csharp](https://github.com/Unity-Technologies/unityscript2csharp) repo.
+Special thanks to Unity's [unityscript2csharp](https://github.com/Unity-Technologies/unityscript2csharp) and karljj1's [Legacy Particle System Updater](https://gist.github.com/karljj1/58f16e936d13a94ae6a2f741fd271d91).
 
 The Angry Bots name and logo © copyright Unity Technologies A/S.
